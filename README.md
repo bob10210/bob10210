@@ -11,21 +11,16 @@
 I have been working in IT for more than 7 years:
 - :telescope: first two years - as a field engineer, learning the craft as a self-taught person;
 - :seedling: then three years - as a system administrator;
+
 - 🚀 for the last two years - a devops engineer.
+  
+- :mailbox: Как связаться со мной / How to contact me: [![Telegram Badge](https://img.shields.io/badge/-rislapsha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rislapsha) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zayrka22@gmail.com)
 
 <p align="center">
  <img width="600" src="/github-snake.svg" alt="snake"/>
 </p>
 
 ---
-
-* 🌍  I'm based in Saint-Petersburg
-* ✉️  You can contact me at [zayrka22@gmail.com](mailto:test)
-
-<a href="https://www.github.com/bob10210" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bob10210?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
---
 
 ### Skills
 
@@ -76,3 +71,9 @@ src="https://img.shields.io/github/followers/bob10210?logo=github&style=for-the-
 <a href="http://www.github.com/bob10210"><img src="https://github-readme-stats.vercel.app/api?username=bob10210&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bob10210's GitHub stats" /></a>
 
 <a href="http://www.github.com/bob10210"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bob10210&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://www.github.com/bob10210" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/bob10210?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+---
+
