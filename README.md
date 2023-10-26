@@ -13,6 +13,9 @@ I have been working in IT for more than 7 years:
 - :seedling: then three years - as a system administrator;
 - 🚀 for the last two years - a devops engineer.
 
+<p align="center">
+ <img width="600" src="(github-snake.svg)" alt="snake"/>
+</p>
 ---
 
 * 🌍  I'm based in Saint-Petersburg
@@ -20,6 +23,8 @@ I have been working in IT for more than 7 years:
 
 <a href="https://www.github.com/bob10210" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bob10210?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+--
 
 ### Skills
 
@@ -61,11 +66,7 @@ src="https://img.shields.io/github/followers/bob10210?logo=github&style=for-the-
 
 </div>
 
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/bob10210" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
 
 ### Badges
 
