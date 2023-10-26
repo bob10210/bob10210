@@ -1,16 +1,22 @@
+Привет 👋 Меня зовут Заур
+
 Hi 👋 My name is Zaur
-=====================
 
-Devops Engineer
----------------
+---
+Я работаю в айти больше 7 лет:
+- :telescope: первые два года - выездным инженером, обучался ремеслу самоучкой;
+- :seedling: затем три года - системным администратором;
+- 🚀 последние два года - девопс-инженером.
+ 
+I have been working in IT for more than 7 years:
+- :telescope: first two years - as a field engineer, learning the craft as a self-taught person;
+- :seedling: then three years - as a system administrator;
+- 🚀 for the last two years - a devops engineer.
 
-Работаю в айти больше 6 лет
+---
 
-* 🌍  I'm based in Санкт-Петербург
-* 🖥️  See my portfolio at [sdfsdf](http://sdfs)
-* ✉️  You can contact me at [test](mailto:test)
-* 🚀  I'm currently working on [tset](http://tset)
-* 🧠  I'm learning test
+* 🌍  I'm based in Saint-Petersburg
+* ✉️  You can contact me at [zayrka22@gmail.com](mailto:test)
 
 <a href="https://www.github.com/bob10210" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bob10210?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
