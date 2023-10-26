@@ -3,6 +3,7 @@
 # Hi 👋 My name is Zaur
 
 ---
+
 Я работаю в айти больше 7 лет:
 - :telescope: первые два года - выездным инженером, обучался ремеслу самоучкой;
 - :seedling: затем три года - системным администратором;
@@ -11,7 +12,6 @@
 I have been working in IT for more than 7 years:
 - :telescope: first two years - as a field engineer, learning the craft as a self-taught person;
 - :seedling: then three years - as a system administrator;
-
 - 🚀 for the last two years - a devops engineer.
   
 - :mailbox: Как связаться со мной / How to contact me: [![Telegram Badge](https://img.shields.io/badge/-rislapsha-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rislapsha) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zayrka22@gmail.com)
